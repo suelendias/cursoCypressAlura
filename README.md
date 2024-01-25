@@ -1,4 +1,4 @@
-# Cypress: Automação de Testes E2E
+## Cypress: Automação de Testes E2E
 
 
 ### Conteúdos do curso: 
